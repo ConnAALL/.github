@@ -1,1 +1,1 @@
-# .github
+#The AALL at Connecticut College
